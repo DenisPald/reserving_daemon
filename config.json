@@ -1,0 +1,6 @@
+{
+	"source_directory": "/home/denispald/perl5",
+    "backup_directory": "/home/denispald/perl5.backup",
+    "backup_frequency": 5,
+    "log_file": "/home/denispald/w/linux/semestr_3/linux/daemon/log.txt"
+}

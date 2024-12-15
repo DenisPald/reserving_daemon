@@ -1,0 +1,12 @@
+[Unit]
+Description=Backup Daemon Service
+After=local-fs.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/denispald/w/linux/semestr_3/linux/daemon/main.py
+Restart=always
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target

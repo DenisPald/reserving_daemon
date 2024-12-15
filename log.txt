@@ -1,0 +1,19 @@
+2024-12-15 17:49:59,008 - Daemon started.
+2024-12-15 17:49:59,041 - Backup created at: /home/denispald/perl5.backup/backup_20241215_174959
+2024-12-15 17:50:04,064 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175004
+2024-12-15 17:50:09,092 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175009
+2024-12-15 17:50:14,115 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175014
+2024-12-15 17:50:19,153 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175019
+2024-12-15 17:50:24,186 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175024
+2024-12-15 17:50:29,211 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175029
+2024-12-15 17:50:34,240 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175034
+2024-12-15 17:50:39,261 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175039
+2024-12-15 17:50:44,288 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175044
+2024-12-15 17:50:49,323 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175049
+2024-12-15 17:50:54,353 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175054
+2024-12-15 17:50:59,375 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175059
+2024-12-15 17:51:04,409 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175104
+2024-12-15 17:51:09,435 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175109
+2024-12-15 17:51:14,457 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175114
+2024-12-15 17:51:19,485 - Backup created at: /home/denispald/perl5.backup/backup_20241215_175119
+2024-12-15 17:51:22,824 - Daemon received termination signal. Exiting...
